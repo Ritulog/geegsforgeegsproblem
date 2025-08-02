@@ -1,4 +1,4 @@
-package arrays;
+package binarysearch;
 
 public class CeilSearchBinary {
     public static void main(String[] args) {
