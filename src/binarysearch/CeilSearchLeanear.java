@@ -1,4 +1,4 @@
-package arrays;
+package binarysearch;
 
 public class CeilSearchLeanear {
     public static void main(String[] args) {
